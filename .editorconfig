@@ -1,0 +1,7 @@
+# adicionar a extensão EditorConfig for VS Code
+# adicionar a extensão Prettier
+root = true
+
+[*]
+indent_style = space
+indent_size = 2

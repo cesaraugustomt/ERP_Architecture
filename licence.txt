@@ -1,0 +1,13 @@
+Licença Proprietária
+
+Este software é protegido por leis de direitos autorais e é propriedade de [].
+Qualquer uso não autorizado deste software é proibido e sujeito a penalidades sob a lei.
+
+Permissões:
+1. Você tem permissão para usar este software para fins específicos, conforme acordado em um contrato separado.
+2. Você não tem permissão para distribuir cópias deste software a terceiros.
+3. Você não tem permissão para modificar, descompilar ou realizar engenharia reversa neste software.
+
+Para obter permissões adicionais, entre em contato com [Seu Endereço de Contato].
+
+Copyright [2023] []
